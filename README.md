@@ -1,2 +1,4 @@
 # Roundrobin_simulator
-Roundrobin_simulator with python
+Roundrobin simulator with python
+
+24-1 OS homework 1
