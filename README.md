@@ -1,4 +1,4 @@
 # Roundrobin_simulator
 Roundrobin simulator with python
 
-24-1 OS homework 1
+24년 1학기 운영체제 과제1 
